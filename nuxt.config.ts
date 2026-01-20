@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       { name: 'Inter', provider: 'google' }
     ]
   },
-  nitro: {
+ nitro: {
     preset: 'cloudflare-pages'
   }
 })
